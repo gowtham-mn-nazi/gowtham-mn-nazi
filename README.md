@@ -47,8 +47,6 @@
 
 ---
 
-## ✨ Fun Animation  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400px" alt="coding"/>
 </p>
