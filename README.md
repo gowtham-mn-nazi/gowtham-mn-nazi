@@ -1,41 +1,44 @@
-# 👋 Hi, I'm Gowtham M N  
-
-### 💡 About Me
-- 🎓 Student & passionate learner  
-- 💻 Exploring **MERN Stack**, **Machine Learning**, and **Algorithms**  
-- 🎻 I play **Violin & Guitar**, currently learning **Piano** 🎹  
-- 📚 Building a **Library Management System** and other cool projects  
+<h1 align="center">Hi 👋, I'm Gowtham M N</h1>
+<h3 align="center">A passionate sotware developer from India 🚀</h3>
 
 ---
 
-### 🚀 Tech Stack
-- **Languages**: C++, Python, JavaScript  
-- **Frontend**: React.js, TailwindCSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Others**: Git, REST APIs, JWT Auth  
+### 🌐 Connect with me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham-mn-nazi&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-mn-nazi&layout=compact&theme=tokyonight)  
-
----
-
-### 🏆 Projects
-- 📚 **Library Management System (MERN)** → book inventory, issue/return, reservations  
-- 🎮 **Chess Game (Python + Pygame)** → now integrating with web (HTML/CSS/JS)  
-- 🛒 **E-commerce MERN App** → with UPI payment integration (PhonePe, GPay, Paytm)  
+### 🚀 Languages and Tools  
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+</p>
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@gmail.com)  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowtham-mn-nazi&show_icons=true&theme=radical" alt="stats"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham-mn-nazi&theme=radical" alt="streak"/>
+</p>
 
-### ✨ Fun Fact
-Coding + Music = 🎶 My Creative Combo 🚀  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-mn-nazi&layout=compact&theme=radical" alt="langs"/>
+</p>
