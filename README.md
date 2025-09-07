@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gowtham MN  
+# 👋 Hi, I'm Gowtham M N  
 
 ### 💡 About Me
 - 🎓 Student & passionate learner  
@@ -18,9 +18,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthammn&show_icons=true&theme=radical)  
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham-mn-nazi&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthammn&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-mn-nazi&layout=compact&theme=tokyonight)  
 
 ---
 
