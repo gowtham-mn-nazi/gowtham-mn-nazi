@@ -1,7 +1,7 @@
 <!-- Profile Title -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
-  Hey, I'm <a href="https://github.com/gowtham-mn-nazi">Gowtham MN Nazi</a> 👨‍💻
+  Hey, I'm <a href="https://github.com/gowtham-mn-nazi">Gowtham M N</a> 👨‍💻
 </h1>
 
 <!-- Typing animation -->
